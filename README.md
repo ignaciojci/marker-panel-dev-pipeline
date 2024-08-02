@@ -1,1 +1,1 @@
-# marker-panel-dev-pipeline
+A pipeline for developing genetic marker panels
